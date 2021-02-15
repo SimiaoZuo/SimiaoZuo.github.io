@@ -15,7 +15,7 @@ author_profile: true
 Yue Yu\*, **Simiao Zuo**\*, Haoming Jiang, Wendi Ren, Tuo Zhao and Chao Zhang <br>
 *arxiv preprint*, 2020
 
-[An Optimal Transport Approach to Robust Regression without Correspondence](https://arxiv.org/abs/2012.00123) <br>
+[A Hypergradient Approach to Robust Regression without Correspondence](https://arxiv.org/abs/2012.00123) <br>
 Yujia Xie\*, Yixiu Mao\*, **Simiao Zuo**, Hongteng Xu, Xiaojie Ye, Tuo Zhao and Hongyuan Zha <br>
 *International Conference on Learning Representations (ICLR)*, 2020
 
