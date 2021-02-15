@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Work Experience
+## Work experience
 * *2021.5-2021.8*: Data scientist intern, Microsoft
 * *2020.9-2020.12*: Applied scientist intern, Amazon
 * *2020.6-2020.8*: Research intern, Microsoft
