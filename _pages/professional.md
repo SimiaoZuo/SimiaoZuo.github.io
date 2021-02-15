@@ -14,5 +14,5 @@ author_profile: true
 
 ## Teaching
 Teaching Assistant:
-* Basic Statistical Methods (ISyE 3030), Fall 2019
 * Basic Statistical Methods (ISyE 3030), Spring 2020
+* Basic Statistical Methods (ISyE 3030), Fall 2019
