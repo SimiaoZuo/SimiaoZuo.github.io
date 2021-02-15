@@ -11,6 +11,19 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835) [[code]](https://github.com/yueyu1030/COSINE) <br>
+Yue Yu<sup>*</sup>, **Simiao Zuo**<sup>*</sup>, Haoming Jiang, Wendi Ren, Tuo Zhao and Chao Zhang <br>
+*arxiv preprint*, 2020 
+
+[An Optimal Transport Approach to Robust Regression without Correspondence](https://arxiv.org/abs/2012.00123) <br>
+Yujia Xie<sup>*</sup>, Yixiu Mao<sup>*</sup>, **Simiao Zuo**, Hongteng Xu, Xiaojie Ye, Tuo Zhao and Hongyuan Zha <br>
+*International Conference on Learning Representations (ICLR)*, 2020
+
+[Transformer Hawkes Process](https://arxiv.org/abs/2002.09291) [[code]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process) <br>
+**Simiao Zuo**, Haoming Jiang, Zichong Li, Tuo Zhao and Hongyuan Zha <br>
+*International Conference on Machine Learning (ICML)*, 2020
+
+[Tensor maps for synchronizing heterogeneous shape collections](https://dl.acm.org/doi/abs/10.1145/3306346.3322944) <br>
+Qixing Huang, Zhenxiao Liang, Haoyun Wang, **Simiao Zuo** and Chandrajit Bajaj <br>
+*ACM Transactions on Graphics (TOG)*, 2019
+
