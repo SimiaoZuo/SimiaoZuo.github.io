@@ -13,11 +13,11 @@ author_profile: true
 
 [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835) [[code]](https://github.com/yueyu1030/COSINE) <br>
 Yue Yu\*, **Simiao Zuo**\*, Haoming Jiang, Wendi Ren, Tuo Zhao and Chao Zhang <br>
-*arxiv preprint*, 2020
+*arxiv preprint*, 2021
 
 [A Hypergradient Approach to Robust Regression without Correspondence](https://arxiv.org/abs/2012.00123) <br>
 Yujia Xie\*, Yixiu Mao\*, **Simiao Zuo**, Hongteng Xu, Xiaojie Ye, Tuo Zhao and Hongyuan Zha <br>
-*International Conference on Learning Representations (ICLR)*, 2020
+*International Conference on Learning Representations (ICLR)*, 2021
 
 [Transformer Hawkes Process](https://arxiv.org/abs/2002.09291) [[code]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process) <br>
 **Simiao Zuo**, Haoming Jiang, Zichong Li, Tuo Zhao and Hongyuan Zha <br>
