@@ -11,9 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
+Adversarial Training as Stackelberg Game: An Unrolled Optimization Approach <br>
+**Simiao Zuo**, Chen Liang, Haoming Jiang, Xiaodong Liu, Pengcheng He, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
+*arxiv*, 2021
+
 [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835) [[code]](https://github.com/yueyu1030/COSINE) <br>
 Yue Yu\*, **Simiao Zuo**\*, Haoming Jiang, Wendi Ren, Tuo Zhao and Chao Zhang <br>
-*arxiv preprint*, 2021
+*North American Chapter of the Association for Computational Linguistics (NAACL)*, 2021
 
 [A Hypergradient Approach to Robust Regression without Correspondence](https://arxiv.org/abs/2012.00123) <br>
 Yujia Xie\*, Yixiu Mao\*, **Simiao Zuo**, Hongteng Xu, Xiaojie Ye, Tuo Zhao and Hongyuan Zha <br>
