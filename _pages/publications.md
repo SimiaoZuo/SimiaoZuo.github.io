@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Adversarial Training as Stackelberg Game: An Unrolled Optimization Approach <br>
+[Adversarial Training as Stackelberg Game: An Unrolled Optimization Approach](http://arxiv.org/abs/2104.04886) <br>
 **Simiao Zuo**, Chen Liang, Haoming Jiang, Xiaodong Liu, Pengcheng He, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
 *arxiv*, 2021
 
