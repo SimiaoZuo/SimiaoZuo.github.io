@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+[Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization]() <br>
+Chen Liang, **Simiao Zuo**, Minshuo Chen, Haoming Jiang, Xiaodong Liu, Pengcheng He, Tuo Zhao and Weizhu Chen <br>
+*Association for Computational Linguistics (ACL)*, 2021
+
 [Adversarial Training as Stackelberg Game: An Unrolled Optimization Approach](http://arxiv.org/abs/2104.04886) <br>
 **Simiao Zuo**, Chen Liang, Haoming Jiang, Xiaodong Liu, Pengcheng He, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
 *arxiv*, 2021
