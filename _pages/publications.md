@@ -11,13 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
+[Adversarial Training as Stackelberg Game: An Unrolled Optimization Approach](http://arxiv.org/abs/2104.04886) <br>
+**Simiao Zuo**, Chen Liang, Haoming Jiang, Xiaodong Liu, Pengcheng He, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
+*Empirical Methods in Natural Language Processing (EMNLP)*, 2021
+
+[ARCH: Efficient Adversarial Regularized Training with Caching] <br>
+**Simiao Zuo**, Chen Liang, Haoming Jiang, Pengcheng He, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
+*Findings of Empirical Methods in Natural Language Processing (EMNLP)*, 2021
+
 [Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization]() <br>
 Chen Liang, **Simiao Zuo**, Minshuo Chen, Haoming Jiang, Xiaodong Liu, Pengcheng He, Tuo Zhao and Weizhu Chen <br>
 *Association for Computational Linguistics (ACL)*, 2021
-
-[Adversarial Training as Stackelberg Game: An Unrolled Optimization Approach](http://arxiv.org/abs/2104.04886) <br>
-**Simiao Zuo**, Chen Liang, Haoming Jiang, Xiaodong Liu, Pengcheng He, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
-*arxiv*, 2021
 
 [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835) [[code]](https://github.com/yueyu1030/COSINE) <br>
 Yue Yu\*, **Simiao Zuo**\*, Haoming Jiang, Wendi Ren, Tuo Zhao and Chao Zhang <br>
