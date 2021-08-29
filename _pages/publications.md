@@ -15,7 +15,7 @@ author_profile: true
 **Simiao Zuo**, Chen Liang, Haoming Jiang, Xiaodong Liu, Pengcheng He, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
 *Empirical Methods in Natural Language Processing (EMNLP)*, 2021
 
-[ARCH: Efficient Adversarial Regularized Training with Caching] <br>
+ARCH: Efficient Adversarial Regularized Training with Caching <br>
 **Simiao Zuo**, Chen Liang, Haoming Jiang, Pengcheng He, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
 *Findings of Empirical Methods in Natural Language Processing (EMNLP)*, 2021
 
