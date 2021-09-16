@@ -11,15 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
-[Adversarial Training as Stackelberg Game: An Unrolled Optimization Approach](http://arxiv.org/abs/2104.04886) <br>
+[Adversarially Regularized Policy Learning Guided by Trajectory Optimization]() <br>
+Zhigen Zhao, **Simiao Zuo**, Tuo Zhao and Ye Zhao <br>
+*arxiv*, 2021
+
+[Self-Training with Differentiable Teacher](https://arxiv.org/abs/2109.07049) <br>
+**Simiao Zuo**\*, Yue Yu\*, Chen Liang, Haoming Jiang, Siawpeng Er, Chao Zhang, Tuo Zhao and Hongyuan Zha <br>
+*arxiv*, 2021
+
+[Adversarial Regularization as Stackelberg Game: An Unrolled Optimization Approach](http://arxiv.org/abs/2104.04886) <br>
 **Simiao Zuo**, Chen Liang, Haoming Jiang, Xiaodong Liu, Pengcheng He, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
 *Empirical Methods in Natural Language Processing (EMNLP)*, 2021
 
-ARCH: Efficient Adversarial Regularized Training with Caching <br>
+[ARCH: Efficient Adversarial Regularized Training with Caching](https://arxiv.org/abs/2109.07048) <br>
 **Simiao Zuo**, Chen Liang, Haoming Jiang, Pengcheng He, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
 *Findings of Empirical Methods in Natural Language Processing (EMNLP)*, 2021
 
-[Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization]() <br>
+[Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization](https://arxiv.org/abs/2105.12002) <br>
 Chen Liang, **Simiao Zuo**, Minshuo Chen, Haoming Jiang, Xiaodong Liu, Pengcheng He, Tuo Zhao and Weizhu Chen <br>
 *Association for Computational Linguistics (ACL)*, 2021
 
