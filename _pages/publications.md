@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Adversarially Regularized Policy Learning Guided by Trajectory Optimization]() <br>
+[Adversarially Regularized Policy Learning Guided by Trajectory Optimization](https://arxiv.org/abs/2109.07627) <br>
 Zhigen Zhao, **Simiao Zuo**, Tuo Zhao and Ye Zhao <br>
 *arxiv*, 2021
 
@@ -27,7 +27,7 @@ Zhigen Zhao, **Simiao Zuo**, Tuo Zhao and Ye Zhao <br>
 **Simiao Zuo**, Chen Liang, Haoming Jiang, Pengcheng He, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
 *Findings of Empirical Methods in Natural Language Processing (EMNLP)*, 2021
 
-[Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization](https://arxiv.org/abs/2105.12002) <br>
+[Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization](https://arxiv.org/abs/2105.12002) [[code]](https://github.com/cliang1453/super-structured-lottery-tickets) <br>
 Chen Liang, **Simiao Zuo**, Minshuo Chen, Haoming Jiang, Xiaodong Liu, Pengcheng He, Tuo Zhao and Weizhu Chen <br>
 *Association for Computational Linguistics (ACL)*, 2021
 
