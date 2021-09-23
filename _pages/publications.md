@@ -19,11 +19,11 @@ Zhigen Zhao, **Simiao Zuo**, Tuo Zhao and Ye Zhao <br>
 **Simiao Zuo**\*, Yue Yu\*, Chen Liang, Haoming Jiang, Siawpeng Er, Chao Zhang, Tuo Zhao and Hongyuan Zha <br>
 *arxiv*, 2021
 
-[Adversarial Regularization as Stackelberg Game: An Unrolled Optimization Approach](http://arxiv.org/abs/2104.04886) <br>
+[Adversarial Regularization as Stackelberg Game: An Unrolled Optimization Approach](http://arxiv.org/abs/2104.04886) [[code]](https://github.com/SimiaoZuo/Stackelberg-Adv) <br>
 **Simiao Zuo**, Chen Liang, Haoming Jiang, Xiaodong Liu, Pengcheng He, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
 *Empirical Methods in Natural Language Processing (EMNLP)*, 2021
 
-[ARCH: Efficient Adversarial Regularized Training with Caching](https://arxiv.org/abs/2109.07048) <br>
+[ARCH: Efficient Adversarial Regularized Training with Caching](https://arxiv.org/abs/2109.07048) [[code]](https://github.com/SimiaoZuo/Caching-Adv) <br>
 **Simiao Zuo**, Chen Liang, Haoming Jiang, Pengcheng He, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
 *Findings of Empirical Methods in Natural Language Processing (EMNLP)*, 2021
 
