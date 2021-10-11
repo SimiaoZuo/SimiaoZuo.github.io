@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Taming Sparsely Activated Transformer with Stochastic Experts](https://arxiv.org/abs/2110.04260) <br>
+[Taming Sparsely Activated Transformer with Stochastic Experts](https://arxiv.org/abs/2110.04260) [[code]](https://github.com/microsoft/Stochastic-Mixture-of-Experts) <br>
 **Simiao Zuo**, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Tuo Zhao and Jianfeng Gao <br>
 *arxiv*, 2021
 
