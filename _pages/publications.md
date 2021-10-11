@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+[Taming Sparsely Activated Transformer with Stochastic Experts](https://arxiv.org/abs/2110.04260) <br>
+**Simiao Zuo**, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Tuo Zhao and Jianfeng Gao <br>
+*arxiv*, 2021
+
 [Adversarially Regularized Policy Learning Guided by Trajectory Optimization](https://arxiv.org/abs/2109.07627) <br>
 Zhigen Zhao, **Simiao Zuo**, Tuo Zhao and Ye Zhao <br>
 *arxiv*, 2021
