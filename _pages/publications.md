@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+[Adversarially Regularized Policy Learning Guided by Trajectory Optimization](https://arxiv.org/abs/2109.07627) <br>
+Zhigen Zhao, **Simiao Zuo**, Tuo Zhao and Ye Zhao <br>
+*Annual Learning for Dynamics & Control Conference (L4DC)*, 2022
+
 [No Parameters Left Behind: Sensitivity Guided Adaptive Learning Rate for Training Large Transformer Models](https://arxiv.org/abs/2202.02664) [[code]](https://github.com/cliang1453/SAGE) <br>
 Chen Liang, Haoming Jiang, **Simiao Zuo**, Pengcheng He, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Tuo Zhao <br>
 *International Conference on Learning Representations (ICLR)*, 2022
@@ -18,10 +22,6 @@ Chen Liang, Haoming Jiang, **Simiao Zuo**, Pengcheng He, Xiaodong Liu, Jianfeng 
 [Taming Sparsely Activated Transformer with Stochastic Experts](https://arxiv.org/abs/2110.04260) [[code]](https://github.com/microsoft/Stochastic-Mixture-of-Experts) <br>
 **Simiao Zuo**, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Tuo Zhao and Jianfeng Gao <br>
 *International Conference on Learning Representations (ICLR)*, 2022
-
-[Adversarially Regularized Policy Learning Guided by Trajectory Optimization](https://arxiv.org/abs/2109.07627) <br>
-Zhigen Zhao, **Simiao Zuo**, Tuo Zhao and Ye Zhao <br>
-*arxiv*, 2021
 
 [Self-Training with Differentiable Teacher](https://arxiv.org/abs/2109.07049) <br>
 **Simiao Zuo**\*, Yue Yu\*, Chen Liang, Haoming Jiang, Siawpeng Er, Chao Zhang, Tuo Zhao and Hongyuan Zha <br>
