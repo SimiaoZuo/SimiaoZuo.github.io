@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-[MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation]() <br>
+[MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation](https://arxiv.org/abs/2204.07675) [[code]](https://github.com/SimiaoZuo/MoEBERT) <br>
 **Simiao Zuo**, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen <br>
 *North American Chapter of the Association for Computational Linguistics (NAACL)*, 2022
 
