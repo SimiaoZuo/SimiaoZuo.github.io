@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+[Differentially Private Estimation of Hawkes Process]() <br>
+**Simiao Zuo**, Tianyi Liu, Tuo Zhao and Hongyuan Zha <br>
+*arxiv*, 2022
+
+[UNITE: Uncertainty Adjusted Pruning for Large Transformer Models]() <br>
+Qingru Zhang, **Simiao Zuo**, Alexander Bukharin, Chen Liang, Pengcheng He, Weizhu Chen and Tuo Zhao <br>
+*International Conference on Machine Learning (ICML)*, 2022
+
 [MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation](https://arxiv.org/abs/2204.07675) [[code]](https://github.com/SimiaoZuo/MoEBERT) <br>
 **Simiao Zuo**, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen <br>
 *North American Chapter of the Association for Computational Linguistics (NAACL)*, 2022

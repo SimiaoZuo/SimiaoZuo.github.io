@@ -16,6 +16,5 @@ where I worked with [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/).
 My CV is downloadable [here](http://SimiaoZuo.github.io/files/cv_Simiao_Zuo.pdf).
 
 My research interests include machine learning and natural language processing.
-In particular, I am interested in analyzing noisy data using tools
-such as weak supervision and adversarial training.
+In particular, I am interested in developing principled machine learning algorithms using tools such as weak supervision and adversarial training.
 I am also interested in point process.
