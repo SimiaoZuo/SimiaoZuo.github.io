@@ -15,8 +15,8 @@ author_profile: true
 **Simiao Zuo**, Tianyi Liu, Tuo Zhao and Hongyuan Zha <br>
 *arxiv*, 2022
 
-[UNITE: Uncertainty Adjusted Pruning for Large Transformer Models]() <br>
-Qingru Zhang, **Simiao Zuo**, Alexander Bukharin, Chen Liang, Pengcheng He, Weizhu Chen and Tuo Zhao <br>
+[PLATON: Pruning Large Transformer Models with Upper Confidence Bound of Weight Importance](https://arxiv.org/abs/2206.12562) [[code]](https://github.com/QingruZhang/PLATON) <br>
+Qingru Zhang, **Simiao Zuo**, Chen Liang, Alexander Bukharin, Pengcheng He, Weizhu Chen and Tuo Zhao <br>
 *International Conference on Machine Learning (ICML)*, 2022
 
 [MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation](https://arxiv.org/abs/2204.07675) [[code]](https://github.com/SimiaoZuo/MoEBERT) <br>
