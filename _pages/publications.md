@@ -11,8 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-[Differentially Private Estimation of Hawkes Process]() <br>
+[DiP-GNN: Discriminative Pre-Training of Graph Neural Networks](https://arxiv.org/abs/2209.07499) <br>
+**Simiao Zuo**, Haoming Jiang, Qingyu Yin, Xianfeng Tang, Bing Yin and Tuo Zhao <br>
+*arxiv*, 2022
+
+[Differentially Private Estimation of Hawkes Process](https://arxiv.org/abs/2209.07303) <br>
 **Simiao Zuo**, Tianyi Liu, Tuo Zhao and Hongyuan Zha <br>
+*arxiv*, 2022
+
+[Context-Aware Query Rewriting for Improving Users' Search Experience on E-commerce Websites]()<br>
+**Simiao Zuo**, Qingyu Yin, Haoming Jiang, Shaohui Xi, Bing Yin, Chao Zhang and Tuo Zhao
 *arxiv*, 2022
 
 [PLATON: Pruning Large Transformer Models with Upper Confidence Bound of Weight Importance](https://arxiv.org/abs/2206.12562) [[code]](https://github.com/QingruZhang/PLATON) <br>

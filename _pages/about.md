@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Machine Learning at Georgia Institute of Technology.
+I am a fourth year Ph.D. student in Machine Learning at Georgia Institute of Technology.
 My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/).
 Before joining Georgia Tech, I received my Bachelor's degree in Computer Science
 and my Bachelor's degree in Mathematics from The University of Texas at Austin,
