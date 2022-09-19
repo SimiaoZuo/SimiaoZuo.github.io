@@ -19,8 +19,8 @@ author_profile: true
 **Simiao Zuo**, Tianyi Liu, Tuo Zhao and Hongyuan Zha <br>
 *arxiv*, 2022
 
-[Context-Aware Query Rewriting for Improving Users' Search Experience on E-commerce Websites]()<br>
-**Simiao Zuo**, Qingyu Yin, Haoming Jiang, Shaohui Xi, Bing Yin, Chao Zhang and Tuo Zhao
+[Context-Aware Query Rewriting for Improving Users' Search Experience on E-commerce Websites](https://arxiv.org/abs/2209.07584)<br>
+**Simiao Zuo**, Qingyu Yin, Haoming Jiang, Shaohui Xi, Bing Yin, Chao Zhang and Tuo Zhao <br>
 *arxiv*, 2022
 
 [PLATON: Pruning Large Transformer Models with Upper Confidence Bound of Weight Importance](https://arxiv.org/abs/2206.12562) [[code]](https://github.com/QingruZhang/PLATON) <br>
