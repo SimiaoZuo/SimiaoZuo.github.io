@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+[Less is More: Task-aware Layer-wise Distillation for Language Model Compression](https://arxiv.org/abs/2210.01351) <br>
+Chen Liang, **Simiao Zuo**, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao <br>
+*arxiv*, 2022
+
 [DiP-GNN: Discriminative Pre-Training of Graph Neural Networks](https://arxiv.org/abs/2209.07499) <br>
 **Simiao Zuo**, Haoming Jiang, Qingyu Yin, Xianfeng Tang, Bing Yin and Tuo Zhao <br>
 *arxiv*, 2022
