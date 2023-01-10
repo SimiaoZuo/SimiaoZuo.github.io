@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+[Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136) [[code]](https://github.com/microsoft/EfficientLongSequenceModeling) <br>
+**Simiao Zuo**\*, Xiaodong Liu\*, Jian Jiao, Denis Charles, Eren Manavoglu, Tuo Zhao and Jianfeng Gao <br>
+*arxiv*, 2022
+
 [Less is More: Task-aware Layer-wise Distillation for Language Model Compression](https://arxiv.org/abs/2210.01351) <br>
 Chen Liang, **Simiao Zuo**, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao <br>
 *arxiv*, 2022

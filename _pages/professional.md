@@ -21,4 +21,4 @@ Teaching Assistant:
 * Basic Statistical Methods (ISyE 3030), Fall 2019
 
 ## Services
-I served as a reviewer for AAAI, AISTATS, COLING, ICLR, ICML, KDD and NeurIPS.
+I served as a reviewer for AAAI, ACL, AISTATS, COLING, ICLR, ICML, KDD and NeurIPS.
