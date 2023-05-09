@@ -15,10 +15,6 @@ author_profile: true
 **Simiao Zuo**\*, Xiaodong Liu\*, Jian Jiao, Denis Charles, Eren Manavoglu, Tuo Zhao and Jianfeng Gao <br>
 *arxiv*, 2022
 
-[Less is More: Task-aware Layer-wise Distillation for Language Model Compression](https://arxiv.org/abs/2210.01351) <br>
-Chen Liang, **Simiao Zuo**, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao <br>
-*arxiv*, 2022
-
 [DiP-GNN: Discriminative Pre-Training of Graph Neural Networks](https://arxiv.org/abs/2209.07499) <br>
 **Simiao Zuo**, Haoming Jiang, Qingyu Yin, Xianfeng Tang, Bing Yin and Tuo Zhao <br>
 *arxiv*, 2022
@@ -29,7 +25,19 @@ Chen Liang, **Simiao Zuo**, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao
 
 [Context-Aware Query Rewriting for Improving Users' Search Experience on E-commerce Websites](https://arxiv.org/abs/2209.07584)<br>
 **Simiao Zuo**, Qingyu Yin, Haoming Jiang, Shaohui Xi, Bing Yin, Chao Zhang and Tuo Zhao <br>
-*arxiv*, 2022
+*Association for Computational Linguistics, Industry Track (ACL)*, 2023
+
+[Machine Learning Force Fields with Data Cost Aware Training]() <br>
+Alexander Bukharin, Tianyi Liu, Shengjie Wang, **Simiao Zuo**, Weihao Gao, Wen Yan and Tuo Zhao <br>
+*International Conference on Machine Learning (ICML)*, 2023
+
+[SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process]() <br>
+Zichong Li, Yanbo Xu, **Simiao Zuo**, Haoming Jiang, Chao Zhang, Tuo Zhao and Hongyuan Zha <br>
+*International Conference on Machine Learning (ICML)*, 2023
+
+[Less is More: Task-aware Layer-wise Distillation for Language Model Compression](https://arxiv.org/abs/2210.01351) <br>
+Chen Liang, **Simiao Zuo**, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao <br>
+*International Conference on Machine Learning (ICML)*, 2023
 
 [PLATON: Pruning Large Transformer Models with Upper Confidence Bound of Weight Importance](https://arxiv.org/abs/2206.12562) [[code]](https://github.com/QingruZhang/PLATON) <br>
 Qingru Zhang, **Simiao Zuo**, Chen Liang, Alexander Bukharin, Pengcheng He, Weizhu Chen and Tuo Zhao <br>

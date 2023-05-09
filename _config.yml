@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simiao Zuo"
 title_separator          : "-"
 name                     : &name "Simia Zuo"
-description              : &description "Ph.D. student in Machine Learning, Georgia Institute of Technology"
+description              : &description "Data Scientist at Microsoft"
 url                      : https://SimiaoZuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SimiaoZuo/SimiaoZuo.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Simiao Zuo (左思邈)"
   avatar           : "simiaozuo.jpg"
-  bio              : "Ph.D. student in Machine Learning, Georgia Institute of Technology"
-  location         : "Atlanta, Georgia"
+  bio              : "Data Scientist at Microsoft"
+  location         : "Redmond, Washington"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=J8TSTXMAAAAJ&hl=en&oi=ao"
-  email            : "simiaozuo@gatech.edu"
+  email            : "simiaozuo@microsoft.com"
   researchgate     :
   uri              :
   bitbucket        :

@@ -14,7 +14,7 @@ Download my curriculum vitae [pdf](http://SimiaoZuo.github.io/files/cv_Simiao_Zu
 Education
 ======
 * **Ph.D. in Machine Learning**\
-  Georgia Institute of Technology, 2023 (expected)
+  Georgia Institute of Technology, 2023
   
 * **B.S. in Computer Science (with Highest Honors)**\
   **B.S. in Mathematics (with Highest Honors)**\
