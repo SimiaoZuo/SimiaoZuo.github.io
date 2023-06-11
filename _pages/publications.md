@@ -27,7 +27,7 @@ author_profile: true
 **Simiao Zuo**, Qingyu Yin, Haoming Jiang, Shaohui Xi, Bing Yin, Chao Zhang and Tuo Zhao <br>
 *Association for Computational Linguistics, Industry Track (ACL)*, 2023
 
-[Machine Learning Force Fields with Data Cost Aware Training]() <br>
+[Machine Learning Force Fields with Data Cost Aware Training](https://arxiv.org/abs/2306.03109) [[code]](https://github.com/abukharin3/asteroid) <br>
 Alexander Bukharin, Tianyi Liu, Shengjie Wang, **Simiao Zuo**, Weihao Gao, Wen Yan and Tuo Zhao <br>
 *International Conference on Machine Learning (ICML)*, 2023
 
@@ -35,7 +35,7 @@ Alexander Bukharin, Tianyi Liu, Shengjie Wang, **Simiao Zuo**, Weihao Gao, Wen Y
 Zichong Li, Yanbo Xu, **Simiao Zuo**, Haoming Jiang, Chao Zhang, Tuo Zhao and Hongyuan Zha <br>
 *International Conference on Machine Learning (ICML)*, 2023
 
-[Less is More: Task-aware Layer-wise Distillation for Language Model Compression](https://arxiv.org/abs/2210.01351) <br>
+[Less is More: Task-aware Layer-wise Distillation for Language Model Compression](https://arxiv.org/abs/2210.01351) [[code]](https://github.com/cliang1453/task-aware-distillation) <br>
 Chen Liang, **Simiao Zuo**, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao <br>
 *International Conference on Machine Learning (ICML)*, 2023
 
