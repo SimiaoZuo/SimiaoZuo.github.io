@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am a Data Scientist at Microsoft. I received my Ph.D. in Machine Learning at Georgia Institute of Technology in 2023, where I was advised by [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/).
-Before joining Georgia Tech, I received my Bachelor's degree in Computer Science
-and my Bachelor's degree in Mathematics from The University of Texas at Austin,
+Before joining Georgia Tech, I received my Bachelor's degree in Computer Science (with Highest Honors)
+and my Bachelor's degree in Mathematics (with Highest Honors) from The University of Texas at Austin,
 where I worked with [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/).
 My CV is downloadable [here](http://SimiaoZuo.github.io/files/cv_Simiao_Zuo.pdf).
 

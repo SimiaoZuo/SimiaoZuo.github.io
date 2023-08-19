@@ -23,7 +23,11 @@ author_profile: true
 **Simiao Zuo**, Tianyi Liu, Tuo Zhao and Hongyuan Zha <br>
 *arxiv*, 2022
 
-[Context-Aware Query Rewriting for Improving Users' Search Experience on E-commerce Websites](https://arxiv.org/abs/2209.07584)<br>
+[DeepTagger: Knowledge Enhanced Named Entity Recognition for Web-Based Ads Queries](https://arxiv.org/abs/2306.17413) <br>
+**Simiao Zuo**, Pengfei Tang, Xinyu Hu, Qiang Lou, Jian Jiao and Denis Charles <br>
+*Conference on Information and Knowledge Management (CIKM)*, 2023
+
+[Context-Aware Query Rewriting for Improving Users' Search Experience on E-commerce Websites](https://arxiv.org/abs/2209.07584) <br>
 **Simiao Zuo**, Qingyu Yin, Haoming Jiang, Shaohui Xi, Bing Yin, Chao Zhang and Tuo Zhao <br>
 *Association for Computational Linguistics, Industry Track (ACL)*, 2023
 
@@ -31,7 +35,7 @@ author_profile: true
 Alexander Bukharin, Tianyi Liu, Shengjie Wang, **Simiao Zuo**, Weihao Gao, Wen Yan and Tuo Zhao <br>
 *International Conference on Machine Learning (ICML)*, 2023
 
-[SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process]() <br>
+[SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process](https://proceedings.mlr.press/v202/li23aj.html#:~:text=To%20address%20these%20issues%2C%20we,that%20avoids%20the%20intractable%20computation.) [[code]](https://github.com/zichongli5/SMURF-THP) <br>
 Zichong Li, Yanbo Xu, **Simiao Zuo**, Haoming Jiang, Chao Zhang, Tuo Zhao and Hongyuan Zha <br>
 *International Conference on Machine Learning (ICML)*, 2023
 
