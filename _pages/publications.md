@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+[Towards Consistent Natural-Language Explanations via Explanation-Consistency Finetuning](https://arxiv.org/abs/2401.13986) <br>
+Yanda Chen, Chandan Singh, Xiaodong Liu, **Simiao Zuo**, Bin Yu, He He and Jianfeng Gao <br>
+*arxiv*, 2024
+
 [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136) [[code]](https://github.com/microsoft/EfficientLongSequenceModeling) <br>
 **Simiao Zuo**\*, Xiaodong Liu\*, Jian Jiao, Denis Charles, Eren Manavoglu, Tuo Zhao and Jianfeng Gao <br>
 *arxiv*, 2022
@@ -22,6 +26,18 @@ author_profile: true
 [Differentially Private Estimation of Hawkes Process](https://arxiv.org/abs/2209.07303) <br>
 **Simiao Zuo**, Tianyi Liu, Tuo Zhao and Hongyuan Zha <br>
 *arxiv*, 2022
+
+[Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing](https://arxiv.org/abs/2310.13855) [[code]](https://github.com/microsoft/Evoke) <br>
+Xinyu Hu, Pengfei Tang, **Simiao Zuo**, Zihan Wang, Bowen Song, Qiang Lou, Jian Jiao and Denis Charles <br>
+*International Conference on Learning Representations (ICLR)*, 2024
+
+[Robust Multi-Agent Reinforcement Learning via Adversarial Regularization: Theoretical Foundation and Stable Algorithms](https://arxiv.org/abs/2310.10810) [[code]](https://github.com/abukharin3/ERNIE) <br>
+Alexander Bukharin, Yan Li, Yue Yu, Qingru Zhang, Zhehui Chen, **Simiao Zuo**, Chao Zhang, Songan Zhang and Tuo Zhao <br>
+*Conference on Neural Information Processing (NeurIPS)*, 2023
+
+[Evaluating Adversarial Defense in the Era of Large Language Models](https://openreview.net/forum?id=m37czv08Ie&referrer=%5Bthe%20profile%20of%20Simiao%20Zuo%5D(%2Fprofile%3Fid%3D~Simiao_Zuo1)) <br>
+Joachim Studnia, **Simiao Zuo**, Xiaodong Liu, Qiang Lou, Jian Jiao and Denis Charles <br>
+*Conference on Neural Information Processing, Workshop on Robustness of Few-shot and Zero-shot Learning in Foundation Models (NeurIPS)*, 2023
 
 [DeepTagger: Knowledge Enhanced Named Entity Recognition for Web-Based Ads Queries](https://arxiv.org/abs/2306.17413) <br>
 **Simiao Zuo**, Pengfei Tang, Xinyu Hu, Qiang Lou, Jian Jiao and Denis Charles <br>
@@ -35,7 +51,7 @@ author_profile: true
 Alexander Bukharin, Tianyi Liu, Shengjie Wang, **Simiao Zuo**, Weihao Gao, Wen Yan and Tuo Zhao <br>
 *International Conference on Machine Learning (ICML)*, 2023
 
-[SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process](https://proceedings.mlr.press/v202/li23aj.html#:~:text=To%20address%20these%20issues%2C%20we,that%20avoids%20the%20intractable%20computation.) [[code]](https://github.com/zichongli5/SMURF-THP) <br>
+[SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process](https://arxiv.org/abs/2310.16336) [[code]](https://github.com/zichongli5/SMURF-THP) <br>
 Zichong Li, Yanbo Xu, **Simiao Zuo**, Haoming Jiang, Chao Zhang, Tuo Zhao and Hongyuan Zha <br>
 *International Conference on Machine Learning (ICML)*, 2023
 
