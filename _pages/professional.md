@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Work experience
-* *2023.02-present*: Data scientist, Microsoft Bing Ads
+* *2023.02-present*: Data scientist, Microsoft AI
 * *2022.10-2023.01*: Research intern, Microsoft Research
 * *2022.05-2022.07*: Data scientist intern, Microsoft Bing Ads
 * *2022.01-2022.04*: Applied scientist intern, Amazon Search
